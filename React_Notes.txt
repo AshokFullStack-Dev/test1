@@ -1,0 +1,11 @@
+OLD: React
+1. npx create-react-app <<Application_name>>
+2. npm start
+3. npm run build
+4. npm test
+
+NEW:Using Vite
+1.npm create vite@latest my-react-app --template react
+2.cd my-react-app.
+3.npm install.
+4.npm run dev
